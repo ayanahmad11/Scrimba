@@ -1,4 +1,0 @@
-``` npx create-react-app <App_name_in_lowercase>
-```react uses port 3000 as default port 
-
-                     
