@@ -27,8 +27,10 @@
 # Why React?
 
 - It is Composable.
-         Earlier the complete web page used to be in one HTML code  that becomes messy.
-         Use of Components in react
+
+        * Earlier the complete web page used to be in one HTML code  that becomes messy.
+        * Use of Components in react
+
 - It is Declarative.
 
         Just tell me what needs to be done !
@@ -54,6 +56,6 @@
 
 - If I were to console.log(page) in index.js, what would show up?
 
-          A JavaScript object.
-          React elements that describe what React should
+         * A JavaScript object.
+         * React elements that describe what React should
           eventually add to the real DOM for us
